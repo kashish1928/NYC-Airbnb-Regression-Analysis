@@ -12,3 +12,9 @@ It contains comprehensive information about hosts, geographical availability, an
 Our question of interest from this dataset is : 
 - What is the association between various properties, including room type, price, and availability, and the reviews per month of Airbnb listings in New York City for the year 2019?
 - Through regression analysis, this study aims to explore and quantify the relationships between these properties and the reviews per month, recognizing that correlation does not imply causation. The goal is to identify statistically significant associations and provide valuable insights into factors influencing the popularity of Airbnb listings
+
+```
+The link to the final analysis report is attached below:
+```
+
+ [Final Analysis Report](https://github.com/kashish1928/NYC-Airbnb-Regression-Analysis/blob/main/STAT306_Final_Project_Report.pdf)
